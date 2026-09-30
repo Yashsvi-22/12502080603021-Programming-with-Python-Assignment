@@ -1,22 +1,35 @@
 # Programming with Python – Assignment 1
 
-## Student Details
+Student Details
 
-* **Name:** Yashsvi Sanash
-* **Enrollment No.:** 12502080603021
-* **Semester:** 5
+Name: Yashsvi Sanash
+Enrollment No.: 12502080603021
+Semester: 5
+Course: Programming with Python
 
 ## Assignment Overview
 
 This repository contains Python programs developed as part of Programming with Python Assignment 1.
 
-## Programs
+The programs demonstrate the following concepts:
 
-The `Assignment:1` folder contains all 10 Python programs and their corresponding output screenshots.
+* Python Programming Fundamentals
+* Conditional Statements and Loops
+* Functions and Problem-Solving
+* Data Structures and Collections
+* File Handling
+* Exception Handling and Input Validation
+* Pickle and ZIP File Compression
+* Threaded Job Scheduler Simulation
+* GUI Development using Tkinter
+* JSON Data Persistence and CSV Export
 
-## Technologies Used
 
-* Python
-* Tkinter
-* JSON
-* CSV
+Technologies Used
+Programming Language: Python
+GUI Library: Tkinter
+Data Storage: JSON
+File Export: CSV
+Development Environment:Visual Studio Code
+
+
